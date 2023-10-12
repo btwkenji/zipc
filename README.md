@@ -13,6 +13,8 @@
 ```c
 .
 ├── README.md
+├── .gitignore
+├── LICENSE
 └── zipman.c
 ```
 
