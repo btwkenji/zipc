@@ -26,15 +26,11 @@ git clone github.com/kenjitheman/zipman.c
 
 ## usage
 
-- 1
-
 ```sh
 gcc -o zipman zipman.c -lz
 ```
 
-```sh
-[?] usage: ./zipman [compress|extract] [input_file] [output_file]
-```
+- [?] usage: ./zipman [compress|extract] [input_file] [output_file]
 
 ## example
 
