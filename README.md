@@ -21,7 +21,7 @@
 ## installation
 
 ```shell
-git clone github.com/kenjitheman/zipman.c
+git clone https://github.com/kenjitheman/zipman.c
 ```
 
 ## usage
