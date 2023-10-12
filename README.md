@@ -46,4 +46,4 @@ gcc -o zipman zipman.c -lz
 
 ## license
 
-- [MIT](https://choosealicense.com/licenses/mit/
+- [MIT](https://choosealicense.com/licenses/mit/)
