@@ -1,4 +1,4 @@
-## simple zip compressor/extractor in c for self use
+## Simple zip compressor/extractor in c for self use
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-## project structure:
+## Project structure:
 
 ```c
 .
@@ -18,32 +18,32 @@
 └── zipman.c
 ```
 
-## installation
+## Installation
 
 ```shell
 git clone https://github.com/kenjitheman/zipman.c
 ```
 
-## usage
+## Usage
 
-```sh
+```shell
 gcc -o zipman zipman.c -lz
 ```
 
 - [?] usage: ./zipman [compress|extract] [input_file] [output_file]
 
-## example
+## Example
 
-```sh
+```shell
 ➜ ./zipman compress ./man.txt ./man.zip
 [SUCCESS] compression completed successfully
 ```
 
-## contributing
+## Contributing
 
-- pull requests are welcome, for major changes, please open an issue first to
-  discuss what you would like to change
+- Pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change.
 
-## license
+## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
