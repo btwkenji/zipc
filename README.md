@@ -20,13 +20,13 @@
 
 ## Installation
 
-```shell
+```sh
 git clone https://github.com/kenjitheman/zipman.c
 ```
 
 ## Usage
 
-```shell
+```sh
 gcc -o zipman zipman.c -lz
 ```
 
@@ -34,7 +34,7 @@ gcc -o zipman zipman.c -lz
 
 ## Example
 
-```shell
+```sh
 ➜ ./zipman compress ./man.txt ./man.zip
 [SUCCESS] compression completed successfully
 ```
