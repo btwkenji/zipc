@@ -11,7 +11,8 @@
 ## Project structure:
 
 ```c
-.
+zipman.c
+│
 ├── README.md
 ├── .gitignore
 ├── LICENSE
